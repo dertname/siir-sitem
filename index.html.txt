@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Geceye Yazılanlar</title>
+
+    <style>
+        body {
+            background-color: #0f0f0f;
+            color: #e0e0e0;
+            font-family: Georgia, serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            border-bottom: 1px solid #333;
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            color: #aaa;
+            font-style: italic;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 60px auto;
+            padding: 0 20px;<div class="siir">
+    <h2>sensiz ve sessiz</h2>
+    <p>
+kalbimin derinliklerindessin sus
+incitme içindeki öfkeyi kus
+ağladın sana bir ben mi inandım
+sevdim gözlerine aldandım
+
+üzülme gözlerim kanlandı
+geçecek içimde bir sen kaldı
+kıskandım yüzüne esen rüzgarı kıskandım
+aldırma sana her geleni kandırma
+
+sessizlik senden kopan bir sensizlik
+çaresiz ve bitkin
+kopan kimki ikimizen
+bilemedin harbi kirden
+
+temizlen , sevgiye yakışmaz toz duman
+kondurmam sana kendimden başkasını yakıştırmam 
+
+
+    </p>
+</div>
+
+        }
+
+        .siir {
+            margin-bottom: 80px;
+        }
+
+        .siir h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .siir p {
+            line-height: 1.8;
+            white-space: pre-line;
+            color: #ccc;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            border-top: 1px solid #333;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Geceye Yazılanlar</h1>
+    <p>Şiir, bazen susmanın başka bir yoludur.</p>
+</header>
+
+<main>
+
+    <div class="siir">
+        <h2>İsimsiz</h2>
+        <p>
+Geceyi sırtıma aldım
+Yıldızlar ağır geldi
+
+Bir adını söyledim içimden
+Duvarlar bile duydu
+
+Bazı şiirler okunmaz
+Yaşanır
+        </p>
+    </div>
+
+</main>
+
+<footer>
+    © 2026 | Tüm dizeler bana aittir.
+</footer>
+
+</body>
+</html>
+
