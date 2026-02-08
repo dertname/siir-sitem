@@ -13,6 +13,23 @@
             padding: 0;
         }
 
+        nav {
+            text-align: center;
+            padding: 20px;
+            border-bottom: 1px solid #333;
+        }
+
+        nav a {
+            color: #ccc;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+        }
+
+        nav a:hover {
+            color: #fff;
+        }
+
         header {
             text-align: center;
             padding: 60px 20px;
@@ -33,31 +50,7 @@
         main {
             max-width: 800px;
             margin: 60px auto;
-            padding: 0 20px;<div class="siir">
-    <h2>sensiz ve sessiz</h2>
-    <p>
-kalbimin derinliklerindessin sus
-incitme içindeki öfkeyi kus
-ağladın sana bir ben mi inandım
-sevdim gözlerine aldandım
-
-üzülme gözlerim kanlandı
-geçecek içimde bir sen kaldı
-kıskandım yüzüne esen rüzgarı kıskandım
-aldırma sana her geleni kandırma
-
-sessizlik senden kopan bir sensizlik
-çaresiz ve bitkin
-kopan kimki ikimizen
-bilemedin harbi kirden
-
-temizlen , sevgiye yakışmaz toz duman
-kondurmam sana kendimden başkasını yakıştırmam 
-
-
-    </p>
-</div>
-
+            padding: 0 20px;
         }
 
         .siir {
@@ -88,27 +81,19 @@ kondurmam sana kendimden başkasını yakıştırmam
 
 <body>
 
+<nav>
+    <a href="index.html">Şiirler</a>
+    <a href="hikaye.html">Hikâye</a>
+    <a href="hakkimda.html">Hakkımda</a>
+</nav>
+
 <header>
     <h1>Geceye Yazılanlar</h1>
     <p>Şiir, bazen susmanın başka bir yoludur.</p>
 </header>
 
 <main>
-
-    <div class="siir">
-        <h2>İsimsiz</h2>
-        <p>
-Geceyi sırtıma aldım
-Yıldızlar ağır geldi
-
-Bir adını söyledim içimden
-Duvarlar bile duydu
-
-Bazı şiirler okunmaz
-Yaşanır
-        </p>
-    </div>
-
+    <!-- şiirler burada -->
 </main>
 
 <footer>
@@ -117,4 +102,3 @@ Yaşanır
 
 </body>
 </html>
-
